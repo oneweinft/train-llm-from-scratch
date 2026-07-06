@@ -1,0 +1,6543 @@
+{
+  "geraniol": {
+    "name": "geraniol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "geraniol"
+    ]
+  },
+  "floral": {
+    "name": "floral",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "floral"
+    ]
+  },
+  "rose": {
+    "name": "rose",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "rose"
+    ]
+  },
+  "geranium": {
+    "name": "geranium",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "geranium"
+    ]
+  },
+  "citronelly": {
+    "name": "citronelly",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "citronelly"
+    ]
+  },
+  "sweet": {
+    "name": "sweet",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sweet"
+    ]
+  },
+  "citronellol": {
+    "name": "citronellol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "citronellol"
+    ]
+  },
+  "fresh": {
+    "name": "fresh",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fresh"
+    ]
+  },
+  "lemony": {
+    "name": "lemony",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lemony"
+    ]
+  },
+  "phenethyl alcohol": {
+    "name": "phenethyl alcohol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "phenethyl alcohol"
+    ]
+  },
+  "honey": {
+    "name": "honey",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "honey"
+    ]
+  },
+  "warm": {
+    "name": "warm",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "warm"
+    ]
+  },
+  "phenylacetaldehyde": {
+    "name": "phenylacetaldehyde",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "phenylacetaldehyde"
+    ]
+  },
+  "hyacinth": {
+    "name": "hyacinth",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "hyacinth"
+    ]
+  },
+  "green": {
+    "name": "green",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "green"
+    ]
+  },
+  "sharp": {
+    "name": "sharp",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sharp"
+    ]
+  },
+  "hydroxycitronellal": {
+    "name": "hydroxycitronellal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "hydroxycitronellal"
+    ]
+  },
+  "lily": {
+    "name": "lily",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lily"
+    ]
+  },
+  "muguet": {
+    "name": "muguet",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "muguet"
+    ]
+  },
+  "lily of the valley": {
+    "name": "lily of the valley",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lily of the valley"
+    ]
+  },
+  "lilial (butylphenyl methylpropional)": {
+    "name": "lilial (butylphenyl methylpropional)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "lilial (butylphenyl methylpropional)"
+    ]
+  },
+  "lyral (hydroxyisohexyl 3-cyclohexene carboxaldehyde)": {
+    "name": "lyral (hydroxyisohexyl 3-cyclohexene carboxaldehyde)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "lyral (hydroxyisohexyl 3-cyclohexene carboxaldehyde)"
+    ]
+  },
+  "long-lasting": {
+    "name": "long-lasting",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "long-lasting"
+    ]
+  },
+  "bourgeonal": {
+    "name": "bourgeonal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "bourgeonal"
+    ]
+  },
+  "clean": {
+    "name": "clean",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "clean"
+    ]
+  },
+  "florol (tetrahydro-2-isobutyl-4-methyl-4(2h)-pyranol)": {
+    "name": "florol (tetrahydro-2-isobutyl-4-methyl-4(2h)-pyranol)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "florol (tetrahydro-2-isobutyl-4-methyl-4(2h)-pyranol)"
+    ]
+  },
+  "natural": {
+    "name": "natural",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "natural"
+    ]
+  },
+  "cyclamen aldehyde": {
+    "name": "cyclamen aldehyde",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "cyclamen aldehyde"
+    ]
+  },
+  "cyclamen": {
+    "name": "cyclamen",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cyclamen"
+    ]
+  },
+  "powdery": {
+    "name": "powdery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "powdery"
+    ]
+  },
+  "ionone alpha": {
+    "name": "ionone alpha",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "powdery"
+    ],
+    "raw_names": [
+      "ionone alpha"
+    ]
+  },
+  "violet": {
+    "name": "violet",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "violet"
+    ]
+  },
+  "woody": {
+    "name": "woody",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "woody"
+    ]
+  },
+  "orris": {
+    "name": "orris",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orris"
+    ]
+  },
+  "ionone beta": {
+    "name": "ionone beta",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "ionone beta"
+    ]
+  },
+  "raspberry": {
+    "name": "raspberry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "raspberry"
+    ]
+  },
+  "fruity": {
+    "name": "fruity",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fruity"
+    ]
+  },
+  "methyl ionone gamma": {
+    "name": "methyl ionone gamma",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "powdery"
+    ],
+    "raw_names": [
+      "methyl ionone gamma"
+    ]
+  },
+  "irone alpha": {
+    "name": "irone alpha",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "powdery"
+    ],
+    "raw_names": [
+      "irone alpha"
+    ]
+  },
+  "iris": {
+    "name": "iris",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "iris"
+    ]
+  },
+  "buttery": {
+    "name": "buttery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "buttery"
+    ]
+  },
+  "jasmine absolute (natural)": {
+    "name": "jasmine absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "musky"
+    ],
+    "raw_names": [
+      "jasmine absolute (natural)"
+    ]
+  },
+  "jasmine": {
+    "name": "jasmine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "jasmine"
+    ]
+  },
+  "indolic": {
+    "name": "indolic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "indolic"
+    ]
+  },
+  "animalic": {
+    "name": "animalic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "animalic"
+    ]
+  },
+  "narcotic": {
+    "name": "narcotic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "narcotic"
+    ]
+  },
+  "cis-jasmone": {
+    "name": "cis-jasmone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "cis-jasmone"
+    ]
+  },
+  "herbal": {
+    "name": "herbal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "herbal"
+    ]
+  },
+  "benzyl acetate": {
+    "name": "benzyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "benzyl acetate"
+    ]
+  },
+  "light": {
+    "name": "light",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "light"
+    ]
+  },
+  "indole": {
+    "name": "indole",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "musky"
+    ],
+    "raw_names": [
+      "indole"
+    ]
+  },
+  "fecal": {
+    "name": "fecal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fecal"
+    ]
+  },
+  "hedione (methyl dihydrojasmonate)": {
+    "name": "hedione (methyl dihydrojasmonate)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "hedione (methyl dihydrojasmonate)"
+    ]
+  },
+  "radiant": {
+    "name": "radiant",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "radiant"
+    ]
+  },
+  "diffusive": {
+    "name": "diffusive",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "diffusive"
+    ]
+  },
+  "citrus": {
+    "name": "citrus",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "citrus"
+    ]
+  },
+  "neroli oil (natural)": {
+    "name": "neroli oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "neroli oil (natural)"
+    ]
+  },
+  "orange blossom": {
+    "name": "orange blossom",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orange blossom"
+    ]
+  },
+  "methyl anthranilate": {
+    "name": "methyl anthranilate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "methyl anthranilate"
+    ]
+  },
+  "grape": {
+    "name": "grape",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "grape"
+    ]
+  },
+  "neroli": {
+    "name": "neroli",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "neroli"
+    ]
+  },
+  "tuberose absolute (natural)": {
+    "name": "tuberose absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "musky"
+    ],
+    "raw_names": [
+      "tuberose absolute (natural)"
+    ]
+  },
+  "tuberose": {
+    "name": "tuberose",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tuberose"
+    ]
+  },
+  "creamy": {
+    "name": "creamy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "creamy"
+    ]
+  },
+  "ylang ylang oil (natural)": {
+    "name": "ylang ylang oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "ylang ylang oil (natural)"
+    ]
+  },
+  "ylang-ylang": {
+    "name": "ylang-ylang",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ylang-ylang"
+    ]
+  },
+  "banana": {
+    "name": "banana",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "banana"
+    ]
+  },
+  "spicy": {
+    "name": "spicy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "spicy"
+    ]
+  },
+  "eugenol": {
+    "name": "eugenol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "floral"
+    ],
+    "raw_names": [
+      "eugenol"
+    ]
+  },
+  "clove": {
+    "name": "clove",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "clove"
+    ]
+  },
+  "carnation": {
+    "name": "carnation",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "carnation"
+    ]
+  },
+  "iso eugenol": {
+    "name": "iso eugenol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "spicy"
+    ],
+    "raw_names": [
+      "iso eugenol"
+    ]
+  },
+  "rose oxide": {
+    "name": "rose oxide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "rose oxide"
+    ]
+  },
+  "metallic": {
+    "name": "metallic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "metallic"
+    ]
+  },
+  "damascenone": {
+    "name": "damascenone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "damascenone"
+    ]
+  },
+  "plum": {
+    "name": "plum",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "plum"
+    ]
+  },
+  "tobacco": {
+    "name": "tobacco",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tobacco"
+    ]
+  },
+  "damascone beta": {
+    "name": "damascone beta",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "damascone beta"
+    ]
+  },
+  "blackcurrant": {
+    "name": "blackcurrant",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "blackcurrant"
+    ]
+  },
+  "narcissus absolute (natural)": {
+    "name": "narcissus absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "narcissus absolute (natural)"
+    ]
+  },
+  "narcissus": {
+    "name": "narcissus",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "narcissus"
+    ]
+  },
+  "gardenia acetal (methyl 2-octynoate)": {
+    "name": "gardenia acetal (methyl 2-octynoate)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "gardenia acetal (methyl 2-octynoate)"
+    ]
+  },
+  "gardenia": {
+    "name": "gardenia",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "gardenia"
+    ]
+  },
+  "bergamot oil fcf (natural)": {
+    "name": "bergamot oil fcf (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "floral"
+    ],
+    "raw_names": [
+      "bergamot oil fcf (natural)"
+    ]
+  },
+  "bergamot": {
+    "name": "bergamot",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "bergamot"
+    ]
+  },
+  "lavender": {
+    "name": "lavender",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lavender"
+    ]
+  },
+  "limonene": {
+    "name": "limonene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "limonene"
+    ]
+  },
+  "orange": {
+    "name": "orange",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orange"
+    ]
+  },
+  "citral": {
+    "name": "citral",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "citral"
+    ]
+  },
+  "lemon": {
+    "name": "lemon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lemon"
+    ]
+  },
+  "lemongrass": {
+    "name": "lemongrass",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lemongrass"
+    ]
+  },
+  "linalool": {
+    "name": "linalool",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "linalool"
+    ]
+  },
+  "linalyl acetate": {
+    "name": "linalyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "floral"
+    ],
+    "raw_names": [
+      "linalyl acetate"
+    ]
+  },
+  "nootkatone": {
+    "name": "nootkatone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "woody"
+    ],
+    "raw_names": [
+      "nootkatone"
+    ]
+  },
+  "grapefruit": {
+    "name": "grapefruit",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "grapefruit"
+    ]
+  },
+  "bitter": {
+    "name": "bitter",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "bitter"
+    ]
+  },
+  "petitgrain oil paraguay (natural)": {
+    "name": "petitgrain oil paraguay (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "floral"
+    ],
+    "raw_names": [
+      "petitgrain oil paraguay (natural)"
+    ]
+  },
+  "orange leaf": {
+    "name": "orange leaf",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orange leaf"
+    ]
+  },
+  "decanal (aldehyde c-10)": {
+    "name": "decanal (aldehyde c-10)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "aldehydic"
+    ],
+    "raw_names": [
+      "decanal (aldehyde c-10)"
+    ]
+  },
+  "orange peel": {
+    "name": "orange peel",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orange peel"
+    ]
+  },
+  "waxy": {
+    "name": "waxy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "waxy"
+    ]
+  },
+  "dodecanal (aldehyde c-12 mna)": {
+    "name": "dodecanal (aldehyde c-12 mna)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "citrus"
+    ],
+    "raw_names": [
+      "dodecanal (aldehyde c-12 mna)"
+    ]
+  },
+  "aldehydic": {
+    "name": "aldehydic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "aldehydic"
+    ]
+  },
+  "soapy": {
+    "name": "soapy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "soapy"
+    ]
+  },
+  "fatty": {
+    "name": "fatty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fatty"
+    ]
+  },
+  "undecanal (aldehyde c-11)": {
+    "name": "undecanal (aldehyde c-11)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic"
+    ],
+    "raw_names": [
+      "undecanal (aldehyde c-11)"
+    ]
+  },
+  "nonanal (aldehyde c-9)": {
+    "name": "nonanal (aldehyde c-9)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "floral"
+    ],
+    "raw_names": [
+      "nonanal (aldehyde c-9)"
+    ]
+  },
+  "iso e super (tetramethyl octahydronaphthalenfuran)": {
+    "name": "iso e super (tetramethyl octahydronaphthalenfuran)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber",
+      "musky"
+    ],
+    "raw_names": [
+      "iso e super (tetramethyl octahydronaphthalenfuran)"
+    ]
+  },
+  "cedar": {
+    "name": "cedar",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cedar"
+    ]
+  },
+  "velvety": {
+    "name": "velvety",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "velvety"
+    ]
+  },
+  "amber": {
+    "name": "amber",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "amber"
+    ]
+  },
+  "musk": {
+    "name": "musk",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "musk"
+    ]
+  },
+  "ambroxan (ambroxide)": {
+    "name": "ambroxan (ambroxide)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "woody"
+    ],
+    "raw_names": [
+      "ambroxan (ambroxide)"
+    ]
+  },
+  "ambergris": {
+    "name": "ambergris",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ambergris"
+    ]
+  },
+  "mineral": {
+    "name": "mineral",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "mineral"
+    ]
+  },
+  "norlimbanol (timberol)": {
+    "name": "norlimbanol (timberol)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "norlimbanol (timberol)"
+    ]
+  },
+  "dry": {
+    "name": "dry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "dry"
+    ]
+  },
+  "dusty": {
+    "name": "dusty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "dusty"
+    ]
+  },
+  "sandalwood oil indian (natural)": {
+    "name": "sandalwood oil indian (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "sandalwood oil indian (natural)"
+    ]
+  },
+  "sandalwood": {
+    "name": "sandalwood",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sandalwood"
+    ]
+  },
+  "smooth": {
+    "name": "smooth",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "smooth"
+    ]
+  },
+  "meditative": {
+    "name": "meditative",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "meditative"
+    ]
+  },
+  "ebanol": {
+    "name": "ebanol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "ebanol"
+    ]
+  },
+  "javanol": {
+    "name": "javanol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "javanol"
+    ]
+  },
+  "rich": {
+    "name": "rich",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "rich"
+    ]
+  },
+  "patchouli oil (natural)": {
+    "name": "patchouli oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "earthy"
+    ],
+    "raw_names": [
+      "patchouli oil (natural)"
+    ]
+  },
+  "earthy": {
+    "name": "earthy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "earthy"
+    ]
+  },
+  "camphoraceous": {
+    "name": "camphoraceous",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "camphoraceous"
+    ]
+  },
+  "musty": {
+    "name": "musty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "musty"
+    ]
+  },
+  "vetiver oil haitian (natural)": {
+    "name": "vetiver oil haitian (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "earthy"
+    ],
+    "raw_names": [
+      "vetiver oil haitian (natural)"
+    ]
+  },
+  "smoky": {
+    "name": "smoky",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "smoky"
+    ]
+  },
+  "rooty": {
+    "name": "rooty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "rooty"
+    ]
+  },
+  "vetiveryl acetate": {
+    "name": "vetiveryl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "vetiveryl acetate"
+    ]
+  },
+  "vetiver": {
+    "name": "vetiver",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "vetiver"
+    ]
+  },
+  "elegant": {
+    "name": "elegant",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "elegant"
+    ]
+  },
+  "cedrol": {
+    "name": "cedrol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "cedrol"
+    ]
+  },
+  "cashmeran": {
+    "name": "cashmeran",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "musky"
+    ],
+    "raw_names": [
+      "cashmeran"
+    ]
+  },
+  "cashmere": {
+    "name": "cashmere",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cashmere"
+    ]
+  },
+  "sandalore": {
+    "name": "sandalore",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "musky"
+    ],
+    "raw_names": [
+      "sandalore"
+    ]
+  },
+  "musky": {
+    "name": "musky",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "musky"
+    ]
+  },
+  "polysantol": {
+    "name": "polysantol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "floral"
+    ],
+    "raw_names": [
+      "polysantol"
+    ]
+  },
+  "labdanum absolute (natural)": {
+    "name": "labdanum absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "leathery"
+    ],
+    "raw_names": [
+      "labdanum absolute (natural)"
+    ]
+  },
+  "labdanum": {
+    "name": "labdanum",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "labdanum"
+    ]
+  },
+  "resinous": {
+    "name": "resinous",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "resinous"
+    ]
+  },
+  "leathery": {
+    "name": "leathery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "leathery"
+    ]
+  },
+  "balsamic": {
+    "name": "balsamic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "balsamic"
+    ]
+  },
+  "vanillin": {
+    "name": "vanillin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "amber"
+    ],
+    "raw_names": [
+      "vanillin"
+    ]
+  },
+  "vanilla": {
+    "name": "vanilla",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "vanilla"
+    ]
+  },
+  "gourmand": {
+    "name": "gourmand",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "gourmand"
+    ]
+  },
+  "ethyl vanillin": {
+    "name": "ethyl vanillin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "amber"
+    ],
+    "raw_names": [
+      "ethyl vanillin"
+    ]
+  },
+  "intense": {
+    "name": "intense",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "intense"
+    ]
+  },
+  "benzoin resinoid (natural)": {
+    "name": "benzoin resinoid (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "gourmand"
+    ],
+    "raw_names": [
+      "benzoin resinoid (natural)"
+    ]
+  },
+  "tolu balsam (natural)": {
+    "name": "tolu balsam (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "gourmand"
+    ],
+    "raw_names": [
+      "tolu balsam (natural)"
+    ]
+  },
+  "cinnamon": {
+    "name": "cinnamon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cinnamon"
+    ]
+  },
+  "myrrh resinoid (natural)": {
+    "name": "myrrh resinoid (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "earthy"
+    ],
+    "raw_names": [
+      "myrrh resinoid (natural)"
+    ]
+  },
+  "incense": {
+    "name": "incense",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "incense"
+    ]
+  },
+  "medicinal": {
+    "name": "medicinal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "medicinal"
+    ]
+  },
+  "frankincense oil (natural)": {
+    "name": "frankincense oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "woody"
+    ],
+    "raw_names": [
+      "frankincense oil (natural)"
+    ]
+  },
+  "ambrettolide": {
+    "name": "ambrettolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky",
+      "amber"
+    ],
+    "raw_names": [
+      "ambrettolide"
+    ]
+  },
+  "skin": {
+    "name": "skin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "skin"
+    ]
+  },
+  "galaxolide (hhcb)": {
+    "name": "galaxolide (hhcb)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "galaxolide (hhcb)"
+    ]
+  },
+  "laundry": {
+    "name": "laundry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "laundry"
+    ]
+  },
+  "habanolide": {
+    "name": "habanolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "habanolide"
+    ]
+  },
+  "ethylene brassylate": {
+    "name": "ethylene brassylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "ethylene brassylate"
+    ]
+  },
+  "exaltolide": {
+    "name": "exaltolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "exaltolide"
+    ]
+  },
+  "musk t (2,4,6-trinitro-1,3-dimethyl-tert-butylbenzene)": {
+    "name": "musk t (2,4,6-trinitro-1,3-dimethyl-tert-butylbenzene)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "musk t (2,4,6-trinitro-1,3-dimethyl-tert-butylbenzene)"
+    ]
+  },
+  "serenolide": {
+    "name": "serenolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "serenolide"
+    ]
+  },
+  "sylkolide": {
+    "name": "sylkolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "sylkolide"
+    ]
+  },
+  "soft": {
+    "name": "soft",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "soft"
+    ]
+  },
+  "cinnamaldehyde": {
+    "name": "cinnamaldehyde",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "amber"
+    ],
+    "raw_names": [
+      "cinnamaldehyde"
+    ]
+  },
+  "cinnamyl alcohol": {
+    "name": "cinnamyl alcohol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "floral"
+    ],
+    "raw_names": [
+      "cinnamyl alcohol"
+    ]
+  },
+  "cardamom oil (natural)": {
+    "name": "cardamom oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "cardamom oil (natural)"
+    ]
+  },
+  "cardamom": {
+    "name": "cardamom",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cardamom"
+    ]
+  },
+  "eucalyptus": {
+    "name": "eucalyptus",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "eucalyptus"
+    ]
+  },
+  "black pepper oil (natural)": {
+    "name": "black pepper oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "woody"
+    ],
+    "raw_names": [
+      "black pepper oil (natural)"
+    ]
+  },
+  "pepper": {
+    "name": "pepper",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "pepper"
+    ]
+  },
+  "ginger oil (natural)": {
+    "name": "ginger oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "citrus"
+    ],
+    "raw_names": [
+      "ginger oil (natural)"
+    ]
+  },
+  "ginger": {
+    "name": "ginger",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ginger"
+    ]
+  },
+  "galbanum oil (natural)": {
+    "name": "galbanum oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "earthy"
+    ],
+    "raw_names": [
+      "galbanum oil (natural)"
+    ]
+  },
+  "vegetable": {
+    "name": "vegetable",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "vegetable"
+    ]
+  },
+  "leaf alcohol (cis-3-hexenol)": {
+    "name": "leaf alcohol (cis-3-hexenol)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green"
+    ],
+    "raw_names": [
+      "leaf alcohol (cis-3-hexenol)"
+    ]
+  },
+  "grass": {
+    "name": "grass",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "grass"
+    ]
+  },
+  "leaf": {
+    "name": "leaf",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "leaf"
+    ]
+  },
+  "cut grass": {
+    "name": "cut grass",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cut grass"
+    ]
+  },
+  "stemone": {
+    "name": "stemone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green"
+    ],
+    "raw_names": [
+      "stemone"
+    ]
+  },
+  "stemmy": {
+    "name": "stemmy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "stemmy"
+    ]
+  },
+  "tomato leaf": {
+    "name": "tomato leaf",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tomato leaf"
+    ]
+  },
+  "fig leaf": {
+    "name": "fig leaf",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fig leaf"
+    ]
+  },
+  "violet leaf absolute (natural)": {
+    "name": "violet leaf absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "floral"
+    ],
+    "raw_names": [
+      "violet leaf absolute (natural)"
+    ]
+  },
+  "violet leaf": {
+    "name": "violet leaf",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "violet leaf"
+    ]
+  },
+  "cucumber": {
+    "name": "cucumber",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cucumber"
+    ]
+  },
+  "peppery": {
+    "name": "peppery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "peppery"
+    ]
+  },
+  "ethyl maltol": {
+    "name": "ethyl maltol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "fruity"
+    ],
+    "raw_names": [
+      "ethyl maltol"
+    ]
+  },
+  "cotton candy": {
+    "name": "cotton candy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cotton candy"
+    ]
+  },
+  "caramel": {
+    "name": "caramel",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "caramel"
+    ]
+  },
+  "strawberry": {
+    "name": "strawberry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "strawberry"
+    ]
+  },
+  "maltol": {
+    "name": "maltol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "fruity"
+    ],
+    "raw_names": [
+      "maltol"
+    ]
+  },
+  "jammy": {
+    "name": "jammy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "jammy"
+    ]
+  },
+  "gamma-undecalactone (aldehyde c-14)": {
+    "name": "gamma-undecalactone (aldehyde c-14)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "gamma-undecalactone (aldehyde c-14)"
+    ]
+  },
+  "peach": {
+    "name": "peach",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "peach"
+    ]
+  },
+  "lactonic": {
+    "name": "lactonic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lactonic"
+    ]
+  },
+  "gamma-nonalactone (aldehyde c-18)": {
+    "name": "gamma-nonalactone (aldehyde c-18)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "gamma-nonalactone (aldehyde c-18)"
+    ]
+  },
+  "coconut": {
+    "name": "coconut",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "coconut"
+    ]
+  },
+  "furaneol (strawberry furanone)": {
+    "name": "furaneol (strawberry furanone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "furaneol (strawberry furanone)"
+    ]
+  },
+  "tropical": {
+    "name": "tropical",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tropical"
+    ]
+  },
+  "fructone": {
+    "name": "fructone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity"
+    ],
+    "raw_names": [
+      "fructone"
+    ]
+  },
+  "apple": {
+    "name": "apple",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "apple"
+    ]
+  },
+  "allyl amyl glycolate": {
+    "name": "allyl amyl glycolate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "green"
+    ],
+    "raw_names": [
+      "allyl amyl glycolate"
+    ]
+  },
+  "pineapple": {
+    "name": "pineapple",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "pineapple"
+    ]
+  },
+  "tonka bean absolute (natural)": {
+    "name": "tonka bean absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "amber"
+    ],
+    "raw_names": [
+      "tonka bean absolute (natural)"
+    ]
+  },
+  "coumarinic": {
+    "name": "coumarinic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "coumarinic"
+    ]
+  },
+  "almond": {
+    "name": "almond",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "almond"
+    ]
+  },
+  "hay": {
+    "name": "hay",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "hay"
+    ]
+  },
+  "coumarin": {
+    "name": "coumarin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "green"
+    ],
+    "raw_names": [
+      "coumarin"
+    ]
+  },
+  "tonka": {
+    "name": "tonka",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tonka"
+    ]
+  },
+  "dihydrocoumarin": {
+    "name": "dihydrocoumarin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "dihydrocoumarin"
+    ]
+  },
+  "cocoa absolute (natural)": {
+    "name": "cocoa absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "cocoa absolute (natural)"
+    ]
+  },
+  "chocolate": {
+    "name": "chocolate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "chocolate"
+    ]
+  },
+  "cocoa": {
+    "name": "cocoa",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cocoa"
+    ]
+  },
+  "coffee absolute (natural)": {
+    "name": "coffee absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "coffee absolute (natural)"
+    ]
+  },
+  "coffee": {
+    "name": "coffee",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "coffee"
+    ]
+  },
+  "roasted": {
+    "name": "roasted",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "roasted"
+    ]
+  },
+  "calone (methylbenzodioxepinone)": {
+    "name": "calone (methylbenzodioxepinone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic"
+    ],
+    "raw_names": [
+      "calone (methylbenzodioxepinone)"
+    ]
+  },
+  "marine": {
+    "name": "marine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "marine"
+    ]
+  },
+  "melon": {
+    "name": "melon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "melon"
+    ]
+  },
+  "watery": {
+    "name": "watery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "watery"
+    ]
+  },
+  "ozone": {
+    "name": "ozone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ozone"
+    ]
+  },
+  "sea breeze": {
+    "name": "sea breeze",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sea breeze"
+    ]
+  },
+  "dihydromyrcenol": {
+    "name": "dihydromyrcenol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic",
+      "citrus"
+    ],
+    "raw_names": [
+      "dihydromyrcenol"
+    ]
+  },
+  "floralozone": {
+    "name": "floralozone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic",
+      "floral"
+    ],
+    "raw_names": [
+      "floralozone"
+    ]
+  },
+  "aquatic": {
+    "name": "aquatic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "aquatic"
+    ]
+  },
+  "lavender oil (natural)": {
+    "name": "lavender oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "floral"
+    ],
+    "raw_names": [
+      "lavender oil (natural)"
+    ]
+  },
+  "rosemary oil (natural)": {
+    "name": "rosemary oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "green"
+    ],
+    "raw_names": [
+      "rosemary oil (natural)"
+    ]
+  },
+  "rosemary": {
+    "name": "rosemary",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "rosemary"
+    ]
+  },
+  "thyme oil (natural)": {
+    "name": "thyme oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "thyme oil (natural)"
+    ]
+  },
+  "thyme": {
+    "name": "thyme",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "thyme"
+    ]
+  },
+  "eucalyptus oil (natural)": {
+    "name": "eucalyptus oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "eucalyptus oil (natural)"
+    ]
+  },
+  "cool": {
+    "name": "cool",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cool"
+    ]
+  },
+  "1,8-cineole (eucalyptol)": {
+    "name": "1,8-cineole (eucalyptol)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "1,8-cineole (eucalyptol)"
+    ]
+  },
+  "clary sage oil (natural)": {
+    "name": "clary sage oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "amber"
+    ],
+    "raw_names": [
+      "clary sage oil (natural)"
+    ]
+  },
+  "tea": {
+    "name": "tea",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tea"
+    ]
+  },
+  "orris concrete/butter (natural)": {
+    "name": "orris concrete/butter (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "orris concrete/butter (natural)"
+    ]
+  },
+  "heliotropin (piperonal)": {
+    "name": "heliotropin (piperonal)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "heliotropin (piperonal)"
+    ]
+  },
+  "heliotrope": {
+    "name": "heliotrope",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "heliotrope"
+    ]
+  },
+  "cherry": {
+    "name": "cherry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cherry"
+    ]
+  },
+  "acetophenone": {
+    "name": "acetophenone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "acetophenone"
+    ]
+  },
+  "hawthorn": {
+    "name": "hawthorn",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "hawthorn"
+    ]
+  },
+  "isobutyl quinoline (ibq)": {
+    "name": "isobutyl quinoline (ibq)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "earthy"
+    ],
+    "raw_names": [
+      "isobutyl quinoline (ibq)"
+    ]
+  },
+  "leather": {
+    "name": "leather",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "leather"
+    ]
+  },
+  "nutty": {
+    "name": "nutty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "nutty"
+    ]
+  },
+  "birch tar oil (natural)": {
+    "name": "birch tar oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "woody"
+    ],
+    "raw_names": [
+      "birch tar oil (natural)"
+    ]
+  },
+  "tar": {
+    "name": "tar",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tar"
+    ]
+  },
+  "burnt": {
+    "name": "burnt",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "burnt"
+    ]
+  },
+  "wintergreen": {
+    "name": "wintergreen",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "wintergreen"
+    ]
+  },
+  "aldehyde c-12 mof (2-methyl undecanal)": {
+    "name": "aldehyde c-12 mof (2-methyl undecanal)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "amber"
+    ],
+    "raw_names": [
+      "aldehyde c-12 mof (2-methyl undecanal)"
+    ]
+  },
+  "aldehyde c-8 (octanal)": {
+    "name": "aldehyde c-8 (octanal)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "citrus"
+    ],
+    "raw_names": [
+      "aldehyde c-8 (octanal)"
+    ]
+  },
+  "aldehyde c-16 (strawberry aldehyde, ethyl methyl phenylglycidate)": {
+    "name": "aldehyde c-16 (strawberry aldehyde, ethyl methyl phenylglycidate)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "aldehyde c-16 (strawberry aldehyde, ethyl methyl phenylglycidate)"
+    ]
+  },
+  "oakmoss absolute (natural)": {
+    "name": "oakmoss absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "oakmoss absolute (natural)"
+    ]
+  },
+  "mossy": {
+    "name": "mossy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "mossy"
+    ]
+  },
+  "seaweed": {
+    "name": "seaweed",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "seaweed"
+    ]
+  },
+  "deep": {
+    "name": "deep",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "deep"
+    ]
+  },
+  "evernyl (veramoss)": {
+    "name": "evernyl (veramoss)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "evernyl (veramoss)"
+    ]
+  },
+  "oakmoss": {
+    "name": "oakmoss",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "oakmoss"
+    ]
+  },
+  "geosmin": {
+    "name": "geosmin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy"
+    ],
+    "raw_names": [
+      "geosmin"
+    ]
+  },
+  "petrichor": {
+    "name": "petrichor",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "petrichor"
+    ]
+  },
+  "soil": {
+    "name": "soil",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "soil"
+    ]
+  },
+  "damp": {
+    "name": "damp",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "damp"
+    ]
+  },
+  "vetiverol": {
+    "name": "vetiverol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "vetiverol"
+    ]
+  },
+  "patchoulol": {
+    "name": "patchoulol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "patchoulol"
+    ]
+  },
+  "patchouli": {
+    "name": "patchouli",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "patchouli"
+    ]
+  },
+  "rose otto (natural)": {
+    "name": "rose otto (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "rose otto (natural)"
+    ]
+  },
+  "winey": {
+    "name": "winey",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "winey"
+    ]
+  },
+  "orange blossom absolute (natural)": {
+    "name": "orange blossom absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "orange blossom absolute (natural)"
+    ]
+  },
+  "mimosa absolute (natural)": {
+    "name": "mimosa absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "powdery"
+    ],
+    "raw_names": [
+      "mimosa absolute (natural)"
+    ]
+  },
+  "mimosa": {
+    "name": "mimosa",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "mimosa"
+    ]
+  },
+  "ambrette seed absolute (natural)": {
+    "name": "ambrette seed absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky",
+      "floral"
+    ],
+    "raw_names": [
+      "ambrette seed absolute (natural)"
+    ]
+  },
+  "ambrette": {
+    "name": "ambrette",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ambrette"
+    ]
+  },
+  "opoponax resinoid (natural)": {
+    "name": "opoponax resinoid (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "spicy"
+    ],
+    "raw_names": [
+      "opoponax resinoid (natural)"
+    ]
+  },
+  "elemi resinoid (natural)": {
+    "name": "elemi resinoid (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "citrus"
+    ],
+    "raw_names": [
+      "elemi resinoid (natural)"
+    ]
+  },
+  "cistus labdanum oil (natural)": {
+    "name": "cistus labdanum oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "leathery"
+    ],
+    "raw_names": [
+      "cistus labdanum oil (natural)"
+    ]
+  },
+  "beeswax absolute (natural)": {
+    "name": "beeswax absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "amber"
+    ],
+    "raw_names": [
+      "beeswax absolute (natural)"
+    ]
+  },
+  "wax": {
+    "name": "wax",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "wax"
+    ]
+  },
+  "koavone (methyl lavender ketone)": {
+    "name": "koavone (methyl lavender ketone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "koavone (methyl lavender ketone)"
+    ]
+  },
+  "dynascone 10": {
+    "name": "dynascone 10",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "fruity"
+    ],
+    "raw_names": [
+      "dynascone 10"
+    ]
+  },
+  "galbanum": {
+    "name": "galbanum",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "galbanum"
+    ]
+  },
+  "exaltone (cyclopentadecanone)": {
+    "name": "exaltone (cyclopentadecanone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "exaltone (cyclopentadecanone)"
+    ]
+  },
+  "triplal (2,4-dimethyl-3-cyclohexene carboxaldehyde)": {
+    "name": "triplal (2,4-dimethyl-3-cyclohexene carboxaldehyde)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green"
+    ],
+    "raw_names": [
+      "triplal (2,4-dimethyl-3-cyclohexene carboxaldehyde)"
+    ]
+  },
+  "leafy": {
+    "name": "leafy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "leafy"
+    ]
+  },
+  "menthol": {
+    "name": "menthol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "menthol"
+    ]
+  },
+  "minty": {
+    "name": "minty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "minty"
+    ]
+  },
+  "peppermint": {
+    "name": "peppermint",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "peppermint"
+    ]
+  },
+  "carvone": {
+    "name": "carvone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "carvone"
+    ]
+  },
+  "spearmint": {
+    "name": "spearmint",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "spearmint"
+    ]
+  },
+  "caraway": {
+    "name": "caraway",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "caraway"
+    ]
+  },
+  "anethole": {
+    "name": "anethole",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "anethole"
+    ]
+  },
+  "anise": {
+    "name": "anise",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "anise"
+    ]
+  },
+  "licorice": {
+    "name": "licorice",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "licorice"
+    ]
+  },
+  "cumin oil (natural)": {
+    "name": "cumin oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "earthy"
+    ],
+    "raw_names": [
+      "cumin oil (natural)"
+    ]
+  },
+  "cumin": {
+    "name": "cumin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "cumin"
+    ]
+  },
+  "sweaty": {
+    "name": "sweaty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sweaty"
+    ]
+  },
+  "sclareolide": {
+    "name": "sclareolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "leathery"
+    ],
+    "raw_names": [
+      "sclareolide"
+    ]
+  },
+  "nerol": {
+    "name": "nerol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "nerol"
+    ]
+  },
+  "rhodinol": {
+    "name": "rhodinol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "rhodinol"
+    ]
+  },
+  "peony": {
+    "name": "peony",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "peony"
+    ]
+  },
+  "dimethyl benzyl carbinol (dmbc)": {
+    "name": "dimethyl benzyl carbinol (dmbc)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "dimethyl benzyl carbinol (dmbc)"
+    ]
+  },
+  "lilac": {
+    "name": "lilac",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lilac"
+    ]
+  },
+  "canthoxal": {
+    "name": "canthoxal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "spicy"
+    ],
+    "raw_names": [
+      "canthoxal"
+    ]
+  },
+  "anisic": {
+    "name": "anisic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "anisic"
+    ]
+  },
+  "majantol": {
+    "name": "majantol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "majantol"
+    ]
+  },
+  "florhydral": {
+    "name": "florhydral",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "florhydral"
+    ]
+  },
+  "methyl benzoate": {
+    "name": "methyl benzoate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "methyl benzoate"
+    ]
+  },
+  "ylang": {
+    "name": "ylang",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ylang"
+    ]
+  },
+  "nerolidol": {
+    "name": "nerolidol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "woody"
+    ],
+    "raw_names": [
+      "nerolidol"
+    ]
+  },
+  "farnesol": {
+    "name": "farnesol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "farnesol"
+    ]
+  },
+  "linden": {
+    "name": "linden",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "linden"
+    ]
+  },
+  "mild": {
+    "name": "mild",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "mild"
+    ]
+  },
+  "linalool oxide": {
+    "name": "linalool oxide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "woody"
+    ],
+    "raw_names": [
+      "linalool oxide"
+    ]
+  },
+  "fermented": {
+    "name": "fermented",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fermented"
+    ]
+  },
+  "methoxyphenylbutanone": {
+    "name": "methoxyphenylbutanone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "methoxyphenylbutanone"
+    ]
+  },
+  "cyclal c": {
+    "name": "cyclal c",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "cyclal c"
+    ]
+  },
+  "mefrosol": {
+    "name": "mefrosol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "mefrosol"
+    ]
+  },
+  "anisic aldehyde": {
+    "name": "anisic aldehyde",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "spicy"
+    ],
+    "raw_names": [
+      "anisic aldehyde"
+    ]
+  },
+  "tetrahydromuguol": {
+    "name": "tetrahydromuguol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "tetrahydromuguol"
+    ]
+  },
+  "peony nitrile": {
+    "name": "peony nitrile",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "peony nitrile"
+    ]
+  },
+  "rosy": {
+    "name": "rosy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "rosy"
+    ]
+  },
+  "rose petal nitrile": {
+    "name": "rose petal nitrile",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "rose petal nitrile"
+    ]
+  },
+  "phenylacetaldehyde dimethyl acetal": {
+    "name": "phenylacetaldehyde dimethyl acetal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "phenylacetaldehyde dimethyl acetal"
+    ]
+  },
+  "agrumen nitrile": {
+    "name": "agrumen nitrile",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "floral"
+    ],
+    "raw_names": [
+      "agrumen nitrile"
+    ]
+  },
+  "verdine": {
+    "name": "verdine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "verdine"
+    ]
+  },
+  "oxane": {
+    "name": "oxane",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "oxane"
+    ]
+  },
+  "alpha-pinene": {
+    "name": "alpha-pinene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "woody"
+    ],
+    "raw_names": [
+      "alpha-pinene"
+    ]
+  },
+  "pine": {
+    "name": "pine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "pine"
+    ]
+  },
+  "beta-pinene": {
+    "name": "beta-pinene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "woody"
+    ],
+    "raw_names": [
+      "beta-pinene"
+    ]
+  },
+  "myrcene": {
+    "name": "myrcene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "fruity"
+    ],
+    "raw_names": [
+      "myrcene"
+    ]
+  },
+  "ocimene": {
+    "name": "ocimene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "green"
+    ],
+    "raw_names": [
+      "ocimene"
+    ]
+  },
+  "terpinolene": {
+    "name": "terpinolene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "woody"
+    ],
+    "raw_names": [
+      "terpinolene"
+    ]
+  },
+  "alpha-terpinyl acetate": {
+    "name": "alpha-terpinyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "alpha-terpinyl acetate"
+    ]
+  },
+  "citronellal": {
+    "name": "citronellal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "aldehydic"
+    ],
+    "raw_names": [
+      "citronellal"
+    ]
+  },
+  "lime oil distilled (natural)": {
+    "name": "lime oil distilled (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "lime oil distilled (natural)"
+    ]
+  },
+  "lime": {
+    "name": "lime",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "lime"
+    ]
+  },
+  "tart": {
+    "name": "tart",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "tart"
+    ]
+  },
+  "lemon oil (natural)": {
+    "name": "lemon oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "lemon oil (natural)"
+    ]
+  },
+  "bright": {
+    "name": "bright",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "bright"
+    ]
+  },
+  "zesty": {
+    "name": "zesty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "zesty"
+    ]
+  },
+  "sweet orange oil (natural)": {
+    "name": "sweet orange oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "sweet orange oil (natural)"
+    ]
+  },
+  "juicy": {
+    "name": "juicy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "juicy"
+    ]
+  },
+  "grapefruit oil (natural)": {
+    "name": "grapefruit oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus"
+    ],
+    "raw_names": [
+      "grapefruit oil (natural)"
+    ]
+  },
+  "mandarin oil (natural)": {
+    "name": "mandarin oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "fruity"
+    ],
+    "raw_names": [
+      "mandarin oil (natural)"
+    ]
+  },
+  "mandarin": {
+    "name": "mandarin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "mandarin"
+    ]
+  },
+  "citronella oil (natural)": {
+    "name": "citronella oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "green"
+    ],
+    "raw_names": [
+      "citronella oil (natural)"
+    ]
+  },
+  "grassy": {
+    "name": "grassy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "grassy"
+    ]
+  },
+  "terpineol": {
+    "name": "terpineol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "floral"
+    ],
+    "raw_names": [
+      "terpineol"
+    ]
+  },
+  "sabinene": {
+    "name": "sabinene",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "spicy"
+    ],
+    "raw_names": [
+      "sabinene"
+    ]
+  },
+  "phellandrene alpha": {
+    "name": "phellandrene alpha",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "spicy"
+    ],
+    "raw_names": [
+      "phellandrene alpha"
+    ]
+  },
+  "georgywood": {
+    "name": "georgywood",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "georgywood"
+    ]
+  },
+  "guaiaconol": {
+    "name": "guaiaconol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "leathery"
+    ],
+    "raw_names": [
+      "guaiaconol"
+    ]
+  },
+  "guaiac": {
+    "name": "guaiac",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "guaiac"
+    ]
+  },
+  "phenolic": {
+    "name": "phenolic",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "phenolic"
+    ]
+  },
+  "guaiacwood oil (natural)": {
+    "name": "guaiacwood oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "floral"
+    ],
+    "raw_names": [
+      "guaiacwood oil (natural)"
+    ]
+  },
+  "amyris oil (natural)": {
+    "name": "amyris oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "amyris oil (natural)"
+    ]
+  },
+  "guaiacol": {
+    "name": "guaiacol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "leathery"
+    ],
+    "raw_names": [
+      "guaiacol"
+    ]
+  },
+  "verdox": {
+    "name": "verdox",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "citrus"
+    ],
+    "raw_names": [
+      "verdox"
+    ]
+  },
+  "orvall": {
+    "name": "orvall",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orvall"
+    ]
+  },
+  "piconia": {
+    "name": "piconia",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "piconia"
+    ]
+  },
+  "woodyflor": {
+    "name": "woodyflor",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "floral"
+    ],
+    "raw_names": [
+      "woodyflor"
+    ]
+  },
+  "oryclon": {
+    "name": "oryclon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody"
+    ],
+    "raw_names": [
+      "oryclon"
+    ]
+  },
+  "cedryl methyl ether": {
+    "name": "cedryl methyl ether",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "cedryl methyl ether"
+    ]
+  },
+  "cedramber": {
+    "name": "cedramber",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "cedramber"
+    ]
+  },
+  "thujopsadienol": {
+    "name": "thujopsadienol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "thujopsadienol"
+    ]
+  },
+  "bacdanol": {
+    "name": "bacdanol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "musky"
+    ],
+    "raw_names": [
+      "bacdanol"
+    ]
+  },
+  "brahmanol": {
+    "name": "brahmanol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "brahmanol"
+    ]
+  },
+  "patchouli ethanone": {
+    "name": "patchouli ethanone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "earthy"
+    ],
+    "raw_names": [
+      "patchouli ethanone"
+    ]
+  },
+  "amberketal": {
+    "name": "amberketal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber"
+    ],
+    "raw_names": [
+      "amberketal"
+    ]
+  },
+  "ambrocenide": {
+    "name": "ambrocenide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber"
+    ],
+    "raw_names": [
+      "ambrocenide"
+    ]
+  },
+  "ambroxan": {
+    "name": "ambroxan",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ambroxan"
+    ]
+  },
+  "powerful": {
+    "name": "powerful",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "powerful"
+    ]
+  },
+  "cetalore": {
+    "name": "cetalore",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "musky"
+    ],
+    "raw_names": [
+      "cetalore"
+    ]
+  },
+  "ysampler k": {
+    "name": "ysampler k",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "woody"
+    ],
+    "raw_names": [
+      "ysampler k"
+    ]
+  },
+  "ambergris tincture (natural/historical)": {
+    "name": "ambergris tincture (natural/historical)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "musky"
+    ],
+    "raw_names": [
+      "ambergris tincture (natural/historical)"
+    ]
+  },
+  "romandolide": {
+    "name": "romandolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky",
+      "fruity"
+    ],
+    "raw_names": [
+      "romandolide"
+    ]
+  },
+  "pear": {
+    "name": "pear",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "pear"
+    ]
+  },
+  "helvetolide": {
+    "name": "helvetolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky",
+      "fruity"
+    ],
+    "raw_names": [
+      "helvetolide"
+    ]
+  },
+  "musk ketone": {
+    "name": "musk ketone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "musk ketone"
+    ]
+  },
+  "globalide": {
+    "name": "globalide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "globalide"
+    ]
+  },
+  "musk mc-5": {
+    "name": "musk mc-5",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "musk mc-5"
+    ]
+  },
+  "astrosone": {
+    "name": "astrosone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "astrosone"
+    ]
+  },
+  "muscone": {
+    "name": "muscone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "muscone"
+    ]
+  },
+  "musk a (astratone)": {
+    "name": "musk a (astratone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "musk a (astratone)"
+    ]
+  },
+  "cervolide": {
+    "name": "cervolide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "cervolide"
+    ]
+  },
+  "nutmeg oil (natural)": {
+    "name": "nutmeg oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "woody"
+    ],
+    "raw_names": [
+      "nutmeg oil (natural)"
+    ]
+  },
+  "nutmeg": {
+    "name": "nutmeg",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "nutmeg"
+    ]
+  },
+  "cassia oil (natural)": {
+    "name": "cassia oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "amber"
+    ],
+    "raw_names": [
+      "cassia oil (natural)"
+    ]
+  },
+  "strong": {
+    "name": "strong",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "strong"
+    ]
+  },
+  "pimenta berry oil (natural)": {
+    "name": "pimenta berry oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "amber"
+    ],
+    "raw_names": [
+      "pimenta berry oil (natural)"
+    ]
+  },
+  "allspice": {
+    "name": "allspice",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "allspice"
+    ]
+  },
+  "coriander oil (natural)": {
+    "name": "coriander oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "citrus"
+    ],
+    "raw_names": [
+      "coriander oil (natural)"
+    ]
+  },
+  "coriander": {
+    "name": "coriander",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "coriander"
+    ]
+  },
+  "star anise oil (natural)": {
+    "name": "star anise oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy"
+    ],
+    "raw_names": [
+      "star anise oil (natural)"
+    ]
+  },
+  "turmeric oil (natural)": {
+    "name": "turmeric oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "earthy"
+    ],
+    "raw_names": [
+      "turmeric oil (natural)"
+    ]
+  },
+  "turmeric": {
+    "name": "turmeric",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "turmeric"
+    ]
+  },
+  "isoamyl salicylate": {
+    "name": "isoamyl salicylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "floral"
+    ],
+    "raw_names": [
+      "isoamyl salicylate"
+    ]
+  },
+  "orchid": {
+    "name": "orchid",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "orchid"
+    ]
+  },
+  "cuminaldehyde": {
+    "name": "cuminaldehyde",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "green"
+    ],
+    "raw_names": [
+      "cuminaldehyde"
+    ]
+  },
+  "caraway oil (natural)": {
+    "name": "caraway oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "spicy",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "caraway oil (natural)"
+    ]
+  },
+  "galbascone": {
+    "name": "galbascone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "fruity"
+    ],
+    "raw_names": [
+      "galbascone"
+    ]
+  },
+  "physeol": {
+    "name": "physeol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "fruity"
+    ],
+    "raw_names": [
+      "physeol"
+    ]
+  },
+  "styralyl acetate": {
+    "name": "styralyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "floral"
+    ],
+    "raw_names": [
+      "styralyl acetate"
+    ]
+  },
+  "trans-2-hexenal (leaf aldehyde)": {
+    "name": "trans-2-hexenal (leaf aldehyde)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green"
+    ],
+    "raw_names": [
+      "trans-2-hexenal (leaf aldehyde)"
+    ]
+  },
+  "cis-3-hexenyl acetate": {
+    "name": "cis-3-hexenyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "fruity"
+    ],
+    "raw_names": [
+      "cis-3-hexenyl acetate"
+    ]
+  },
+  "cis-3-hexenyl salicylate": {
+    "name": "cis-3-hexenyl salicylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "floral"
+    ],
+    "raw_names": [
+      "cis-3-hexenyl salicylate"
+    ]
+  },
+  "heptanal (aldehyde c-7)": {
+    "name": "heptanal (aldehyde c-7)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "aldehydic"
+    ],
+    "raw_names": [
+      "heptanal (aldehyde c-7)"
+    ]
+  },
+  "figuer nitrile": {
+    "name": "figuer nitrile",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "green",
+      "fruity"
+    ],
+    "raw_names": [
+      "figuer nitrile"
+    ]
+  },
+  "fig": {
+    "name": "fig",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fig"
+    ]
+  },
+  "ethyl butyrate": {
+    "name": "ethyl butyrate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity"
+    ],
+    "raw_names": [
+      "ethyl butyrate"
+    ]
+  },
+  "isoamyl acetate": {
+    "name": "isoamyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity"
+    ],
+    "raw_names": [
+      "isoamyl acetate"
+    ]
+  },
+  "allyl cyclohexyl propionate": {
+    "name": "allyl cyclohexyl propionate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity"
+    ],
+    "raw_names": [
+      "allyl cyclohexyl propionate"
+    ]
+  },
+  "diethyl malonate": {
+    "name": "diethyl malonate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "green"
+    ],
+    "raw_names": [
+      "diethyl malonate"
+    ]
+  },
+  "ethyl 2-methyl butyrate": {
+    "name": "ethyl 2-methyl butyrate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity"
+    ],
+    "raw_names": [
+      "ethyl 2-methyl butyrate"
+    ]
+  },
+  "gamma-decalactone": {
+    "name": "gamma-decalactone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "gamma-decalactone"
+    ]
+  },
+  "apricot": {
+    "name": "apricot",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "apricot"
+    ]
+  },
+  "delta-decalactone": {
+    "name": "delta-decalactone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "delta-decalactone"
+    ]
+  },
+  "delta-dodecalactone": {
+    "name": "delta-dodecalactone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "delta-dodecalactone"
+    ]
+  },
+  "massoia lactone": {
+    "name": "massoia lactone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "massoia lactone"
+    ]
+  },
+  "wine lactone": {
+    "name": "wine lactone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "gourmand"
+    ],
+    "raw_names": [
+      "wine lactone"
+    ]
+  },
+  "wine": {
+    "name": "wine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "wine"
+    ]
+  },
+  "cassis nitrile": {
+    "name": "cassis nitrile",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "green"
+    ],
+    "raw_names": [
+      "cassis nitrile"
+    ]
+  },
+  "catty": {
+    "name": "catty",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "catty"
+    ]
+  },
+  "acetoin": {
+    "name": "acetoin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "acetoin"
+    ]
+  },
+  "dairy": {
+    "name": "dairy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "dairy"
+    ]
+  },
+  "diacetyl": {
+    "name": "diacetyl",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "diacetyl"
+    ]
+  },
+  "cyclotene (maple lactone)": {
+    "name": "cyclotene (maple lactone)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "cyclotene (maple lactone)"
+    ]
+  },
+  "maple": {
+    "name": "maple",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "maple"
+    ]
+  },
+  "sugar": {
+    "name": "sugar",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sugar"
+    ]
+  },
+  "sotolone": {
+    "name": "sotolone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "spicy"
+    ],
+    "raw_names": [
+      "sotolone"
+    ]
+  },
+  "curry": {
+    "name": "curry",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "curry"
+    ]
+  },
+  "fenugreek": {
+    "name": "fenugreek",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "fenugreek"
+    ]
+  },
+  "propenyl guaethol (vanitrope)": {
+    "name": "propenyl guaethol (vanitrope)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "spicy"
+    ],
+    "raw_names": [
+      "propenyl guaethol (vanitrope)"
+    ]
+  },
+  "honey absolute (natural)": {
+    "name": "honey absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand",
+      "floral"
+    ],
+    "raw_names": [
+      "honey absolute (natural)"
+    ]
+  },
+  "beeswax": {
+    "name": "beeswax",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "beeswax"
+    ]
+  },
+  "acetyl propionyl": {
+    "name": "acetyl propionyl",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "gourmand"
+    ],
+    "raw_names": [
+      "acetyl propionyl"
+    ]
+  },
+  "cascalone": {
+    "name": "cascalone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic",
+      "fruity"
+    ],
+    "raw_names": [
+      "cascalone"
+    ]
+  },
+  "watermelon": {
+    "name": "watermelon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "watermelon"
+    ]
+  },
+  "seaweed absolute (natural)": {
+    "name": "seaweed absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic",
+      "green"
+    ],
+    "raw_names": [
+      "seaweed absolute (natural)"
+    ]
+  },
+  "iodine": {
+    "name": "iodine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "iodine"
+    ]
+  },
+  "ocean": {
+    "name": "ocean",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ocean"
+    ]
+  },
+  "melonal": {
+    "name": "melonal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aquatic",
+      "green"
+    ],
+    "raw_names": [
+      "melonal"
+    ]
+  },
+  "camphor": {
+    "name": "camphor",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "camphor"
+    ]
+  },
+  "borneol": {
+    "name": "borneol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "woody"
+    ],
+    "raw_names": [
+      "borneol"
+    ]
+  },
+  "bornyl acetate": {
+    "name": "bornyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "woody"
+    ],
+    "raw_names": [
+      "bornyl acetate"
+    ]
+  },
+  "coniferous": {
+    "name": "coniferous",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "coniferous"
+    ]
+  },
+  "thymol": {
+    "name": "thymol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "thymol"
+    ]
+  },
+  "carvacrol": {
+    "name": "carvacrol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "carvacrol"
+    ]
+  },
+  "oregano": {
+    "name": "oregano",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "oregano"
+    ]
+  },
+  "pungent": {
+    "name": "pungent",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "pungent"
+    ]
+  },
+  "tarragon oil (natural)": {
+    "name": "tarragon oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "tarragon oil (natural)"
+    ]
+  },
+  "estragon": {
+    "name": "estragon",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "estragon"
+    ]
+  },
+  "myrtle oil (natural)": {
+    "name": "myrtle oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "myrtle oil (natural)"
+    ]
+  },
+  "juniper berry oil (natural)": {
+    "name": "juniper berry oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "woody"
+    ],
+    "raw_names": [
+      "juniper berry oil (natural)"
+    ]
+  },
+  "gin": {
+    "name": "gin",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "gin"
+    ]
+  },
+  "fennel oil bitter (natural)": {
+    "name": "fennel oil bitter (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "fennel oil bitter (natural)"
+    ]
+  },
+  "dill oil (natural)": {
+    "name": "dill oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "green"
+    ],
+    "raw_names": [
+      "dill oil (natural)"
+    ]
+  },
+  "dill": {
+    "name": "dill",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "dill"
+    ]
+  },
+  "chamomile roman oil (natural)": {
+    "name": "chamomile roman oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "fruity"
+    ],
+    "raw_names": [
+      "chamomile roman oil (natural)"
+    ]
+  },
+  "calm": {
+    "name": "calm",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "calm"
+    ]
+  },
+  "wormwood oil (natural)": {
+    "name": "wormwood oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "wormwood oil (natural)"
+    ]
+  },
+  "absinthe": {
+    "name": "absinthe",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "absinthe"
+    ]
+  },
+  "lovage oil (natural)": {
+    "name": "lovage oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "green"
+    ],
+    "raw_names": [
+      "lovage oil (natural)"
+    ]
+  },
+  "celery": {
+    "name": "celery",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "celery"
+    ]
+  },
+  "methyl chavicol (estragole)": {
+    "name": "methyl chavicol (estragole)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "spicy"
+    ],
+    "raw_names": [
+      "methyl chavicol (estragole)"
+    ]
+  },
+  "basil": {
+    "name": "basil",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "basil"
+    ]
+  },
+  "methyl naphthyl ketone": {
+    "name": "methyl naphthyl ketone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "methyl naphthyl ketone"
+    ]
+  },
+  "diphenyl oxide": {
+    "name": "diphenyl oxide",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "diphenyl oxide"
+    ]
+  },
+  "para-cresyl methyl ether": {
+    "name": "para-cresyl methyl ether",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "para-cresyl methyl ether"
+    ]
+  },
+  "naphthyl ethyl ether": {
+    "name": "naphthyl ethyl ether",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "powdery",
+      "floral"
+    ],
+    "raw_names": [
+      "naphthyl ethyl ether"
+    ]
+  },
+  "para-cresol": {
+    "name": "para-cresol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery"
+    ],
+    "raw_names": [
+      "para-cresol"
+    ]
+  },
+  "horse": {
+    "name": "horse",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "horse"
+    ]
+  },
+  "para-cresyl phenyl acetate": {
+    "name": "para-cresyl phenyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "floral"
+    ],
+    "raw_names": [
+      "para-cresyl phenyl acetate"
+    ]
+  },
+  "cade oil (natural)": {
+    "name": "cade oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "woody"
+    ],
+    "raw_names": [
+      "cade oil (natural)"
+    ]
+  },
+  "saffraleine": {
+    "name": "saffraleine",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "spicy"
+    ],
+    "raw_names": [
+      "saffraleine"
+    ]
+  },
+  "saffron": {
+    "name": "saffron",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "saffron"
+    ]
+  },
+  "tobacco absolute (natural)": {
+    "name": "tobacco absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "leathery",
+      "gourmand"
+    ],
+    "raw_names": [
+      "tobacco absolute (natural)"
+    ]
+  },
+  "tridecanal (aldehyde c-13)": {
+    "name": "tridecanal (aldehyde c-13)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "citrus"
+    ],
+    "raw_names": [
+      "tridecanal (aldehyde c-13)"
+    ]
+  },
+  "myristic aldehyde (aldehyde c-14)": {
+    "name": "myristic aldehyde (aldehyde c-14)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic"
+    ],
+    "raw_names": [
+      "myristic aldehyde (aldehyde c-14)"
+    ]
+  },
+  "hexanal (aldehyde c-6)": {
+    "name": "hexanal (aldehyde c-6)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "green"
+    ],
+    "raw_names": [
+      "hexanal (aldehyde c-6)"
+    ]
+  },
+  "karanal": {
+    "name": "karanal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aldehydic",
+      "amber"
+    ],
+    "raw_names": [
+      "karanal"
+    ]
+  },
+  "humulene (alpha-caryophyllene)": {
+    "name": "humulene (alpha-caryophyllene)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "humulene (alpha-caryophyllene)"
+    ]
+  },
+  "hoppy": {
+    "name": "hoppy",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "hoppy"
+    ]
+  },
+  "octahydronaphthalenone": {
+    "name": "octahydronaphthalenone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "woody"
+    ],
+    "raw_names": [
+      "octahydronaphthalenone"
+    ]
+  },
+  "costus root oil (natural)": {
+    "name": "costus root oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "earthy",
+      "musky"
+    ],
+    "raw_names": [
+      "costus root oil (natural)"
+    ]
+  },
+  "hair": {
+    "name": "hair",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "hair"
+    ]
+  },
+  "geranium oil bourbon (natural)": {
+    "name": "geranium oil bourbon (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "geranium oil bourbon (natural)"
+    ]
+  },
+  "ho wood oil (natural)": {
+    "name": "ho wood oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "woody"
+    ],
+    "raw_names": [
+      "ho wood oil (natural)"
+    ]
+  },
+  "rosewood oil (natural)": {
+    "name": "rosewood oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "woody"
+    ],
+    "raw_names": [
+      "rosewood oil (natural)"
+    ]
+  },
+  "hyacinth absolute (natural)": {
+    "name": "hyacinth absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "hyacinth absolute (natural)"
+    ]
+  },
+  "blackcurrant bud absolute (natural)": {
+    "name": "blackcurrant bud absolute (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "green"
+    ],
+    "raw_names": [
+      "blackcurrant bud absolute (natural)"
+    ]
+  },
+  "sulfurous": {
+    "name": "sulfurous",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "sulfurous"
+    ]
+  },
+  "buchu leaf oil (natural)": {
+    "name": "buchu leaf oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "fruity"
+    ],
+    "raw_names": [
+      "buchu leaf oil (natural)"
+    ]
+  },
+  "styrax resinoid (natural)": {
+    "name": "styrax resinoid (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "leathery"
+    ],
+    "raw_names": [
+      "styrax resinoid (natural)"
+    ]
+  },
+  "balsam peru (natural)": {
+    "name": "balsam peru (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "gourmand"
+    ],
+    "raw_names": [
+      "balsam peru (natural)"
+    ]
+  },
+  "pine needle oil (natural)": {
+    "name": "pine needle oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "woody"
+    ],
+    "raw_names": [
+      "pine needle oil (natural)"
+    ]
+  },
+  "fir balsam oil (natural)": {
+    "name": "fir balsam oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "amber"
+    ],
+    "raw_names": [
+      "fir balsam oil (natural)"
+    ]
+  },
+  "cypress oil (natural)": {
+    "name": "cypress oil (natural)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "woody",
+      "aromatic_herbal"
+    ],
+    "raw_names": [
+      "cypress oil (natural)"
+    ]
+  },
+  "evergreen": {
+    "name": "evergreen",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "evergreen"
+    ]
+  },
+  "castoreum absolute (natural/historical)": {
+    "name": "castoreum absolute (natural/historical)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky",
+      "leathery"
+    ],
+    "raw_names": [
+      "castoreum absolute (natural/historical)"
+    ]
+  },
+  "ammoniacal": {
+    "name": "ammoniacal",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "ammoniacal"
+    ]
+  },
+  "civet absolute (natural/historical)": {
+    "name": "civet absolute (natural/historical)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "musky"
+    ],
+    "raw_names": [
+      "civet absolute (natural/historical)"
+    ]
+  },
+  "benzyl salicylate": {
+    "name": "benzyl salicylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "amber"
+    ],
+    "raw_names": [
+      "benzyl salicylate"
+    ]
+  },
+  "subtle": {
+    "name": "subtle",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [],
+    "raw_names": [
+      "subtle"
+    ]
+  },
+  "benzyl benzoate": {
+    "name": "benzyl benzoate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "floral"
+    ],
+    "raw_names": [
+      "benzyl benzoate"
+    ]
+  },
+  "benzyl alcohol": {
+    "name": "benzyl alcohol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "benzyl alcohol"
+    ]
+  },
+  "ethyl phenylacetate": {
+    "name": "ethyl phenylacetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "gourmand"
+    ],
+    "raw_names": [
+      "ethyl phenylacetate"
+    ]
+  },
+  "phenyl ethyl acetate": {
+    "name": "phenyl ethyl acetate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "phenyl ethyl acetate"
+    ]
+  },
+  "phenyl ethyl isobutyrate": {
+    "name": "phenyl ethyl isobutyrate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "fruity"
+    ],
+    "raw_names": [
+      "phenyl ethyl isobutyrate"
+    ]
+  },
+  "isobutyl salicylate": {
+    "name": "isobutyl salicylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "spicy"
+    ],
+    "raw_names": [
+      "isobutyl salicylate"
+    ]
+  },
+  "methyl salicylate": {
+    "name": "methyl salicylate",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "aromatic_herbal",
+      "green"
+    ],
+    "raw_names": [
+      "methyl salicylate"
+    ]
+  },
+  "cinnamic acid": {
+    "name": "cinnamic acid",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "amber",
+      "gourmand"
+    ],
+    "raw_names": [
+      "cinnamic acid"
+    ]
+  },
+  "amyl cinnamic aldehyde (aca)": {
+    "name": "amyl cinnamic aldehyde (aca)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "amyl cinnamic aldehyde (aca)"
+    ]
+  },
+  "hexyl cinnamic aldehyde (hca)": {
+    "name": "hexyl cinnamic aldehyde (hca)",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral"
+    ],
+    "raw_names": [
+      "hexyl cinnamic aldehyde (hca)"
+    ]
+  },
+  "dihydrojasmone": {
+    "name": "dihydrojasmone",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "green"
+    ],
+    "raw_names": [
+      "dihydrojasmone"
+    ]
+  },
+  "4-mercapto-4-methylpentan-2-one": {
+    "name": "4-mercapto-4-methylpentan-2-one",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "fruity",
+      "green"
+    ],
+    "raw_names": [
+      "4-mercapto-4-methylpentan-2-one"
+    ]
+  },
+  "grapefruit mercaptan": {
+    "name": "grapefruit mercaptan",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "citrus",
+      "fruity"
+    ],
+    "raw_names": [
+      "grapefruit mercaptan"
+    ]
+  },
+  "thiogeraniol": {
+    "name": "thiogeraniol",
+    "count": 1,
+    "sources": [
+      "seed_database"
+    ],
+    "categories": [
+      "floral",
+      "citrus"
+    ],
+    "raw_names": [
+      "thiogeraniol"
+    ]
+  }
+}
